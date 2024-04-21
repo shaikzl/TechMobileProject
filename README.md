@@ -48,6 +48,11 @@ Dynamic Rendering: Renders the grid and clues based on the crossword data provid
 we have update few dependencies in package.json 
 so, the package.json looks like this -
 
-![package.json](screenshots/t2.jpeg)
+![package.json](screenshots/t3.jpeg)
 
+Now, we can start to launch and look how our app looks with the update app.js file and CrosswordGrid.js
+
+to start  we can click ```npx expo start```. As our team are having andriod phone we open the expo app and as well as native studio to see how the app is looking.In few seconds of loading we can see the qr code and the commands to open in andriod and othe locations.
+
+![npx expo start](screenshots/t4.jpeg)
 
