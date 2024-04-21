@@ -66,4 +66,16 @@ For new users, they can just click on signup and give their name and password an
 
 Once the user is able to login he can see the game where he/she can solve 4 cross work with indetail questions.
 
-![open page](screenshots/t7.jpeg)
+![1st level puzzle](screenshots/t7.jpeg)
+
+![2nd level puzzle](screenshots/t7_1.jpeg)
+
+If the user is able to give correcct answer for all his 4 question in the level.he can check his answer by clicking on Verify button.
+
+![verify](screenshots/t8.jpeg)
+
+When the user is not able to solve it he can simply click on solve button to see the solutions. 
+
+![solver](screenshots/t9.jpeg)
+
+So, if user saw the user and wants to solve back the same puzzle he is simply click on Try button which shows the same crossword puzzle removing answers.
