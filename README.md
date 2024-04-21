@@ -56,3 +56,14 @@ to start  we can click ```npx expo start```. As our team are having andriod phon
 
 ![npx expo start](screenshots/t4.jpeg)
 
+As our team is having andrio studio in out systems, we just open google pixle 4 in it and click a to view on andriod. The below screenshots hows the opening of our app
+
+![login](screenshots/t5.jpeg)
+
+For new users, they can just click on signup and give their name and password and can easily login into the app
+
+![new user](screenshots/t6.jpeg)
+
+Once the user is able to login he can see the game where he/she can solve 4 cross work with indetail questions.
+
+![open page](screenshots/t8.jpeg)
