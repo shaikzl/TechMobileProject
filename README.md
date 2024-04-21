@@ -16,3 +16,7 @@ The command is :
 npx create-expo-app CrosswordPuzzle
 ```
 
+To move into the directory of project anc do the coding, click ``` cd CrosswordPuzzle ``` where cd stands for change directory.
+
+
+
