@@ -66,4 +66,4 @@ For new users, they can just click on signup and give their name and password an
 
 Once the user is able to login he can see the game where he/she can solve 4 cross work with indetail questions.
 
-![open page](screenshots/t8.jpeg)
+![open page](screenshots/t7.jpeg)
