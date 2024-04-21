@@ -20,5 +20,9 @@ To move into the directory of project anc do the coding, click ``` cd CrosswordP
 
 Now, to design our app and how it has to look we need app.js which is there in vs code on left side . We need CrosswordGrid.js to define how our puzzlesin the app looks like,So we have to create a file CrosswordGrid.js.
 
+The app. js code and CrosswordGrid.js screenshots in vs code -
+
+![app.js](images/t1.jpeg)
+
 
 
