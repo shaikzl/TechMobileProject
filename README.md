@@ -22,7 +22,7 @@ Now, to design our app and how it has to look we need app.js which is there in v
 
 The app. js code and CrosswordGrid.js screenshots in vs code -
 
-![app.js](images/t1.jpeg)
+![app.js](screenshots/t1.jpeg)
 
 
 
