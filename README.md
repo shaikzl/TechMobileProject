@@ -18,5 +18,7 @@ npx create-expo-app CrosswordPuzzle
 
 To move into the directory of project anc do the coding, click ``` cd CrosswordPuzzle ``` where cd stands for change directory.
 
+Now, to design our app and how it has to look we need app.js which is there in vs code on left side . We need CrosswordGrid.js to define how our puzzlesin the app looks like,So we have to create a file CrosswordGrid.js.
+
 
 
