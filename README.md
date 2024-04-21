@@ -33,7 +33,7 @@ User Authentication: Functions handleLogin and handleSignUp validate user input 
 Styling: StyleSheet.create defines styles for UI elements.
 Exporting Default: App component is exported as the default entry point of the application.
 
-![app.js](screenshots/t2.jpeg)
+![CrosswordGrid.js](screenshots/t2.jpeg)
 
 Here's a breakdown of the code:
 
@@ -44,3 +44,10 @@ Answer Verification: Checks if the user's input matches the correct solution.
 Grid Reset: Resets the grid to its initial state.
 Puzzle Solving: Reveals the correct solution to the puzzle.
 Dynamic Rendering: Renders the grid and clues based on the crossword data provided.
+
+we have update few dependencies in package.json 
+so, the package.json looks like this -
+
+![package.json](screenshots/t2.jpeg)
+
+
